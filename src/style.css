@@ -1,0 +1,6 @@
+
+  .card-body{
+      display: flex;
+      justify-content: space-between;
+      font: "italic small-caps bold 30px/2 cursive"
+  }
